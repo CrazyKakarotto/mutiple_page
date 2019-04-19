@@ -87,6 +87,7 @@ module.exports = {
 };
 
 if (process.env.NODE_ENV === 'production') {
+  // 这里修改线上地址（上cdn）
   module.exports.output.publicPath = './';
   module.exports.devtool = false;
   module.exports.plugins = (module.exports.plugins || []).concat([
