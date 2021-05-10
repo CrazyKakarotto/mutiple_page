@@ -930,10 +930,6 @@ boom@5.x.x:
   dependencies:
     hoek "4.x.x"
 
-bootstrap-material-design@4.1.1:
-  version "4.1.1"
-  resolved "http://registry.npm.taobao.org/bootstrap-material-design/download/bootstrap-material-design-4.1.1.tgz#87433db0bf64d6a0afb0f5faaa8606134c9d26d2"
-
 brace-expansion@^1.1.7:
   version "1.1.11"
   resolved "http://registry.npm.taobao.org/brace-expansion/download/brace-expansion-1.1.11.tgz#3c7fcbf529d87226f3d2f52b966ff5271eb441dd"
@@ -2893,8 +2889,8 @@ home-or-tmp@^2.0.0:
     os-tmpdir "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.6.0"
-  resolved "http://registry.npm.taobao.org/hosted-git-info/download/hosted-git-info-2.6.0.tgz#23235b29ab230c576aab0d4f13fc046b0b038222"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -3756,9 +3752,9 @@ jest@^22.2.2:
     import-local "^1.0.0"
     jest-cli "^22.4.3"
 
-jquery@^3.3.1:
-  version "3.3.1"
-  resolved "http://registry.npm.taobao.org/jquery/download/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
+jquery@^3.4.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
 
 js-base64@^2.1.9:
   version "2.4.3"
@@ -4794,10 +4790,6 @@ pluralize@^7.0.0:
 pn@^1.1.0:
   version "1.1.0"
   resolved "http://registry.npm.taobao.org/pn/download/pn-1.1.0.tgz#e2f4cef0e219f463c179ab37463e4e1ecdccbafb"
-
-popper.js@^1.14.3:
-  version "1.14.3"
-  resolved "http://registry.npm.taobao.org/popper.js/download/popper.js-1.14.3.tgz#1438f98d046acf7b4d78cd502bf418ac64d4f095"
 
 portfinder@^1.0.9:
   version "1.0.13"
